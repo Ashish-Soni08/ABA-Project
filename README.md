@@ -25,11 +25,11 @@ We decided to present this approach.
 
 Other algorithms also performed well in terms of accuracy but did not have a low number of false positives.
 
-Results:
-7 attributes are enough to classify the given instances.
+Results: 7 attributes are enough to classify the given instances.
 Dataset is too small and has too many missing values, therefore achieving a better/perfect accuracy is difficult. 
 
 Final Poster: Made by Darshit and Momtaj
+
 Final Presentation : Presented by Roland Schnee
 
 
