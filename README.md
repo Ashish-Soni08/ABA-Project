@@ -1,6 +1,6 @@
 # ABA-Project
 
-Advanced Business Analytics Project:
+Course - Advanced Business Analytics:
 
 Team :Ashish Soni, Darshit Paresh Shah, Momtaj Anar Monni, Roland Schnee
 
