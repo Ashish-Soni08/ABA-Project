@@ -20,12 +20,12 @@ Every individual inspected the data and we came to the conclusions mentioned in 
 Ashish and Roland were responsible for Data cleaning and implementing Data manipulation techniques to prepare the dataset for further analysis.
 
 ### Modelling: 
-Every team member implemented 1 algorithms each, that includes Linear regression, Naive bayes, Decision Trees, Neural Networks.
+Every team member implemented 1 algorithm each, that includes Linear regression, Naive bayes, Decision Trees, Neural Networks.
 
 
 ### Evaluation: 
 We got an accuracy of 77% with Naive bayes and the lowest number of False Positives.
-Since we do not want any person who has cancer to identified as someone who does not cancer. 
+Since we do not want any person who has cancer to identified as someone who does not have cancer. 
 We decided to present this approach.
 
 Other algorithms also performed well in terms of accuracy but did not have a low number of false positives.
