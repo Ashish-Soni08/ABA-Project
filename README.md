@@ -5,9 +5,9 @@
 ## Team: Ashish Soni, Darshit Paresh Shah, Momtaj Anar Monni, Roland Schnee
 
 
-## The task was to Predict whether a patient will survive the diagnosed liver cancer.
-Positives (1): Survives
-Negatives(0): Death
+## Goal : The task was to Predict whether a patient will survive the diagnosed liver cancer.
+- Positives (1): Survives
+- Negatives(0): Death
 
 
 ### Source of Data:  
