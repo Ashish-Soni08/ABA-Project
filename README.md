@@ -24,11 +24,11 @@ Every team member implemented 1 algorithm each, that includes Linear regression,
 
 
 ### Evaluation: 
-We got an accuracy of 77% with Naive bayes and the lowest number of False Positives.
+We got an accuracy of 77% with Naive bayes and the lowest number of False Negatives.
 Since we do not want any person who has cancer to identified as someone who does not have cancer. 
 We decided to present this approach.
 
-Other algorithms also performed well in terms of accuracy but did not have a low number of false positives.
+Other algorithms also performed well in terms of accuracy but did not have a low number of false negatives.
 
 ### Results: 7 attributes are enough to classify the given instances.
 Dataset is too small and has too many missing values, therefore achieving a better/perfect accuracy is difficult. 
